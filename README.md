@@ -39,7 +39,7 @@ Browse to https://whatismyipaddress.com/ and take note of this in a text file
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gmmK2D4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Sign up for ProtonVPN and test the VPN connection)
