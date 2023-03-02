@@ -26,12 +26,14 @@ In this tutorial, we will set up an VPN inside of Azure Virtual machine. We  wil
 <img src="https://i.imgur.com/AnD0KVM.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-(Create Virtual Machine in Azure)
-Browse to https://whatismyipaddress.com/ and take note of this in a text file
-Create a Resource Group
-Create a Windows 10 Virtual Machine in another geographic location (try a different country)
+  
+Browse to https://whatismyipaddress.com/ get IPaddress, This is where you will get the Ipaddress for your PC. Make sure to make note of it.
 Log into the VM with Remote Desktop
-Browse to https://whatismyipaddress.com/ and take note of this in a text file
+Create a Vitrual machine in Azure if you have not already done so. This will require you to already have account set up with Microsoft Azure.
+Create a resource group input all necessary information
+Click on Vitrual machine in Azure to create a VM. (make sure to make note of username and password, this is what you use to signed in for remote desktop)
+Create a Windows 10 Virtual machine in another geographic country or try a different country.
+Once you created the VM, signed into remote desktop on your PC. (if you have Mac you will have to download remote desktop version since Mac does not come with it)
 
 </p>
 <br />
