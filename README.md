@@ -3,10 +3,8 @@
 </p>
 
 <h1>On-premises VPN Setup and Usage (Proton VPN)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+In this tutorial, we will set up an VPN inside of Azure Virtual machine. We  will use an public website called whatismypaddress to look up our Ipaddress for our PC. We will then browse within the Virtual machine and collect the ipaddress for the VM. At this point, we will have two different IPaddresses, and then we will download the free version of Proton VPN, where we will then connect to Japanese server or any country of your choice. We will then visit the whatismyaddress site for the third time to get the IPaddress for the country of your choice. This is good exercise on how to understand how VPN's works. <br />
 
-
-<h2>Video Demonstration</h2>
 
 - ### [](youtubelink)
 
@@ -15,7 +13,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - VPN proton
-- whatismyip (this is just a website, you need to go on)
+- whatismyipaddress (A public website we will used to collect the Ipaddress)
 
 <h2>Operating Systems Used </h2>
 
