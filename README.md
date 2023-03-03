@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/0AgAM6f.jpg" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/y4TF19i.jpg" alt="Microsoft Active Directory Logo"/>
 </p>
 
 <h1>On-premises VPN Setup and Usage (Proton VPN)</h1>
@@ -39,23 +39,26 @@ Once you created the VM, signed into remote desktop on your PC. (if you have Mac
 <br />
 
 <p>
-<img src="https://i.imgur.com/gmmK2D4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5ZUcSjI.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sign up for ProtonVPN and test the VPN connection)
-On your actual computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
-Back within your VM, download the Proton VPN client
-Login to the VPN and choose a VPN server in yet another country (such as Japan)
-Browse to https://whatismyipaddress.com/  and take note of this in a text file
-Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
+Once you signed into the VM in the remote desktop. Collect the IPaddress from your Virtual machine. 
+Clicked on overview and you will be able to collect the public address for your VM in Azure.
+At this point, you should have used a different locaton for VM  
+Visit Whatispaddress.com it will then give you IPaddress of your VM (make sure to keep note of this)  
+  
 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gmmK2D4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+On your computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
+Back within your VM, download the Proton VPN client
+Login to the VPN and choose a VPN server in yet another country (such as Japan)
+Browse to https://whatismyipaddress.com/  and take note of this in a text file
+Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
 </p>
 <br />
