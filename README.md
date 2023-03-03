@@ -55,10 +55,11 @@ Visit Whatispaddress.com it will then give you IPaddress of your VM (make sure t
 <img src="https://i.imgur.com/gmmK2D4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On your computer, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
-Back within your VM, download the Proton VPN client
+On your PC not in your VM, sign up for the free version of Proton VPN https://account.protonvpn.com/signup?plan=free&language=en  
+Back within your VM, download the Proton VPN client (Windows)
 Login to the VPN and choose a VPN server in yet another country (such as Japan)
-Browse to https://whatismyipaddress.com/  and take note of this in a text file
-Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different
+It will now be connected to VPN server in Japan
+Browse to https://whatismyipaddress.com/ it will show now you are in Japan, since you connected to a VPN server in Japan.
+Try browsing to Google, Disney, and/or Amazon and see if there is anything different about the sites in relation to the location of your VPN server. For example, the language or URL may be different.
 </p>
 <br />
